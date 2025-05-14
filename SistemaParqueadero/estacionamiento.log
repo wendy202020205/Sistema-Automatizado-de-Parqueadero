@@ -1,0 +1,25 @@
+2025-05-12 15:46:28 - ERROR - Error en OCR: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:196: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-05-12 15:46:28 - ERROR - Error en entrada: [WinError 2] El sistema no puede encontrar el archivo especificado: 'placa_temp.jpg'
+2025-05-12 15:46:39 - ERROR - Error en OCR: C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-05-12 15:47:11 - ERROR - Error en OCR: C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-05-12 22:18:30 - ERROR - No se pudo acceder a la cámara
+2025-05-12 22:18:38 - ERROR - No se pudo acceder a la cámara
+2025-05-12 22:18:57 - ERROR - Error en OCR: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-05-12 22:18:57 - ERROR - Error en entrada: [WinError 2] El sistema no puede encontrar el archivo especificado: 'placa_temp.jpg'
+2025-05-12 22:19:48 - ERROR - Error en OCR: C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-05-12 22:35:54 - ERROR - Error en base de datos: no such column: estado
+2025-05-12 22:37:16 - ERROR - Error en base de datos: no such column: estado
+2025-05-12 22:37:20 - ERROR - Error en base de datos: no such column: estado
+2025-05-12 22:37:21 - ERROR - Error en base de datos: no such column: estado
+2025-05-12 22:37:30 - ERROR - Error en base de datos: no such column: estado
+2025-05-12 22:37:32 - ERROR - Error en base de datos: no such column: estado
+2025-05-12 22:37:33 - ERROR - Error en base de datos: no such column: estado
+2025-05-12 22:37:49 - ERROR - Error en base de datos: no such column: estado
+2025-05-12 22:37:50 - ERROR - Error en base de datos: no such column: estado
+2025-05-12 22:43:00 - WARNING - No se pudo completar la sincronización
+2025-05-12 22:48:00 - WARNING - No se pudo completar la sincronización
+2025-05-12 23:52:28 - WARNING - No se pudo completar la sincronización
+2025-05-12 23:57:28 - WARNING - No se pudo completar la sincronización
+2025-05-13 00:32:39 - WARNING - No se pudo completar la sincronización
